@@ -1,1 +1,1 @@
-console.log("MYSQL")
+console.log("MYSQL");
